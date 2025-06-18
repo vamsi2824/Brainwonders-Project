@@ -18,7 +18,7 @@ Users describe what they enjoy or are good at, and the app:
 ---
 
 ** WEB PAGE LINK : https://vamsi2824-brainwonders-project-career-guidance-app-6fb2la.streamlit.app/ **
-![Screenshot](./Screen%20Recording%202025-06-18%20133303.mp4)
+![Watch the demo](./Screen%20Recording%202025-06-18%20133303.mp4)
 
 ---
 
