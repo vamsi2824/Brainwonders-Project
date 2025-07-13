@@ -1,4 +1,4 @@
-# 💼 MedGuardian: AI-Powered Career Guidance Bot
+# 💼AI-Powered Career Guidance Bot
 
 An intelligent web app built using **Google Gemini API** and **Streamlit** that helps users discover career paths based on their interests, skills, and values. Ideal for students and career changers looking for AI-backed career advice.
 
